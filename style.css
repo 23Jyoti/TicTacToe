@@ -4,6 +4,7 @@
 }
 
 h1 {
+    padding-top: 45px;
     color: #2a3a54;
     font-size: 55px;
 }
@@ -14,6 +15,7 @@ h1 {
 }
 
 .container {
+    padding-top: 23px;
     height: 70vh;
     display: flex;
     flex-direction: column;
